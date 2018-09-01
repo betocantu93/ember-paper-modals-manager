@@ -5,7 +5,7 @@
 [![Ember Observer Score](https://emberobserver.com/badges/ember-paper-modals-manager.svg)](https://emberobserver.com/addons/ember-paper-modals-manager)
 [![npm version](https://badge.fury.io/js/ember-paper-modals-manager.png)](http://badge.fury.io/js/ember-paper-modals-manager)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Downloads](http://img.shields.io/npm/dm/ember-paper-modals-manager.svg)](https://www.npmjs.com/package/ember-paper-modals-manager)
+[![Downloads](http://img.shields.io/npm/dm/ember-paper-modals-manager.svg)](https://www.npmjs.com/package/ember-paper-modals-manager) [![Greenkeeper badge](https://badges.greenkeeper.io/onechiporenko/ember-paper-modals-manager.svg)](https://greenkeeper.io/)
 
 `ember-paper-modals-manager` is an Ember-addon that provides a simple mechanism for interaction with user using modals. This addon is based on dialogs from `ember-paper`.
 
